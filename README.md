@@ -18,6 +18,7 @@
 - 🎓 Estudiante en la **UTN FRGP**
 - 💻 Curso de **Desarrollo Full Stack** — *Coderhouse*
 - 🌐 Programa **Programación Front End 2023** — *Chicas en Tecnología*
+- 🌐 Programa **Programación Asistida con IA 2025** — *Chicas en Tecnología*
 
 ---
 
